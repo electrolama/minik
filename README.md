@@ -12,8 +12,4 @@ module design files are already in this repo, breakout and libraries to follow. 
 
 ## CircuitPython support
 
-When [this PR](https://github.com/adafruit/circuitpython/pull/6485) is merged, you'll be able to download CircuitPython builds for minik [here](https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/electrolama_minik) (no builds available until the PR is merged). 
-
-Until then, grab [our fork](https://github.com/electrolama/circuitpython/), checkout the `add-board-electrolama-minik` branch and build following the instructions [here](https://learn.adafruit.com/building-circuitpython/introduction). Replace build command in those instructions with `make BOARD=electrolama_minik`.
-
-Alternatively, you can use the [build for Pico](https://circuitpython.org/board/raspberry_pi_pico/) for now while we sort out the custom build.
+minik is supported by CircuitPython! Grab the latest builds [here](https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/electrolama_minik).
