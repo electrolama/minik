@@ -1,0 +1,10 @@
+directory: projects/electrolama/minik/
+eagle_board_file_src:
+  version_current: module/Revision A2/minik-RevA2.brd
+eagle_schematic_file_src:
+  version_current:
+    version_current: module/Revision A2/minik-RevA2.sch
+github: https://github.com/electrolama/minik
+github_project: minik
+github_user: electrolama
+oomp_in_output: true

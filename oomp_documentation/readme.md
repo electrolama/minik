@@ -1,0 +1,25 @@
+# None
+![None](version_current/working/working_3d.png)
+## Description
+None/
+## Bill of Materials
+| Id | Designator | Footprint | Quantity | Designation | Supplier and ref |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | C4,C113,C108,C107,C1<br>09,C112,C114,C105,C1<br>11,C110,C2,C104 | _PKG_C_0402 | 12 | 100n |  |  |
+| 2 | R101,R105 | _PKG_R_0402 | 2 | 10k |  |  |
+| 3 | R104,R106 | _PKG_R_0402 | 2 | 1k |  |  |
+| 4 | C3 | _PKG_C_0402 | 1 | 10u |  |  |
+| 5 | C106,C103 | _PKG_C_0402 | 2 | 1u |  |  |
+| 6 | R102,R103 | _PKG_R_0402 | 2 | 27 |  |  |
+| 7 | LED1 | WS2812B-2020 | 1 | WS2812B-2020 |  |  |
+| 8 | C102,C101 | _PKG_C_0402 | 2 | 12p |  |  |
+| 9 | IC101 | QFN-56 | 1 | RP2040 |  |  |
+| 10 | C1 | _PKG_C_0402 | 1 | 10n |  |  |
+| 11 | IC102 | SON50P300X200X60-9N | 1 | MEMORY-W25Q16FWUXIE |  |  |
+| 12 | XT101 | XTAL-4P-3225 | 1 | 12MHz |  |  |
+| 13 | L1 | _PKG_L_0402 | 1 |  |  |  |
+
+## Images
+![version_current/working/working_3d.png](version_current/working/working_3d.png)
+![version_current/working/working_3d_back.png](version_current/working/working_3d_back.png)
+![version_current/working/working_3d_front.png](version_current/working/working_3d_front.png)
